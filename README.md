@@ -2,21 +2,6 @@
   
 ## ✨ HyeongJun Kim ✨
 
-<img 
-src="https://capsule-render.vercel.app/api?
-type=wave
-&color=auto
-&reversal=true
-&height=300
-&section=header
-&text=HyeongJun%20GitHub
-&desc=안녕하세요 반갑습니다.
-&textBg=true
-&fontSize=90
-&fontColor=ffee00
-&animation=fadeIn"
-/>
-
 <a href="https://hyoengjun.notion.site/Portfolio-13506e9b95654172a98e223fc6c407ce">
 <img alt="PortPolio" src="https://img.shields.io/badge/PortFolio-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white"/></a>
 <a href="https://velog.io/@hyeongjun">
