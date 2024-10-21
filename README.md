@@ -1,7 +1,7 @@
 <div align=center>
   
 ## ✨ HyeongJun Kim ✨
-### 🔗 Links 🔗
+### 🙇‍♂️ About Me 🙇‍♂️
 
 <a href="https://hyoengjun.notion.site/Portfolio-13506e9b95654172a98e223fc6c407ce">
 <img alt="PortPolio" src="https://img.shields.io/badge/PortFolio-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white"/></a>
@@ -37,8 +37,9 @@
 <img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-2C2255.svg?&style=for-the-badge&logo=Eclipse&logoColor=white"/>
 <img alt="VisualStudio" src="https://img.shields.io/badge/VC-5C2D91.svg?&style=for-the-badge&logo=VisualStudio&logoColor=white"/>
 <img alt="VisualStudioCode" src="https://img.shields.io/badge/VSC-007ACC.svg?&style=for-the-badge&logo=VisualStudioCode&logoColor=white"/>
-<img alt="Github" src="https://img.shields.io/badge/Github-181717.svg?&style=for-the-badge&logo=Github&logoColor=white"/>
+<img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
 <br>
+<img alt="Github" src="https://img.shields.io/badge/Github-181717.svg?&style=for-the-badge&logo=Github&logoColor=white"/>
 <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6.svg?&style=for-the-badge&logo=Windows&logoColor=white"/>
 <br>
 
