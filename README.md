@@ -95,6 +95,7 @@
 - **역할**: 팀장 (웹 페이지 개발 (React))
 - **기술**: React
 
+<br><br>
 
 ## 👨🏻‍💻 GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeongjun02&show_icons=true&theme=radical)
