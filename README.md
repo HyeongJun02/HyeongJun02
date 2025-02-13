@@ -49,7 +49,7 @@
 ## 📈 Projects
 **Click the Project title for more**
 
-### [**디스이즈, DSIS - DCO (비공개)**](https://github.com/HyeongJun02) (2021-09 ~)
+### [**디스이즈 - DSIS (비공개)**](https://github.com/HyeongJun02) (2021-09 ~)
 
 **동아대학교 학생을 위한 필수 정보들을 모은 어플리케이션**
 
