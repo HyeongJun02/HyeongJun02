@@ -62,7 +62,7 @@
 - **기술**: React, React Native
 - **다운로드**: [Google Play 스토어](https://play.google.com/store/apps/details?id=kr.co.thisis.dsisproject)
 
-### [**Dev Works - DCO (비공개)**](https://github.com/HyeongJun02) (2024-04 ~)
+### [**Dev Works - DCO (비공개)**](https://github.com/HyeongJun02) (2024-04 ~ 2024.12)
 
 **코딩 과제를 더 쉽게 제출하고 채점 받을 수 있는 과제 제출 사이트**
 
