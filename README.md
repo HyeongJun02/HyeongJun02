@@ -48,8 +48,10 @@
 
 ## 📈 Projects
 **Click the Project title for more**
+**⭐: 주요 프로젝트**
+**🔒: Repositiory 비공개**
 
-### [**디스이즈 - DSIS (비공개)**](https://github.com/HyeongJun02) (2021-09 ~)
+### [**⭐ 디스이즈 - DSIS (🔒)**](https://github.com/HyeongJun02) (2021-09 ~)
 
 **동아대학교 학생을 위한 필수 정보들을 모은 어플리케이션**
 
@@ -60,9 +62,23 @@
     - etc ..
 - **🍎 역할**: 프론트 팀장 (웹뷰를 위한 React 페이지 개발)
 - **🔧 기술**: React, React Native
-- **다운로드**: [Google Play 스토어](https://play.google.com/store/apps/details?id=kr.co.thisis.dsisproject)
+- **❔ 다운로드**: [Google Play 스토어](https://play.google.com/store/apps/details?id=kr.co.thisis.dsisproject)
 
-### [**Dev Works - DCO (비공개)**](https://github.com/HyeongJun02) (2024-04 ~ 2024.12)
+### [**⭐ Poco**](https://github.com/GDG-Solution/GDG-Front) (2024-11 ~ 2025.04)
+
+**공황 장애가 있는 사람들에게 도움이 되어주는 앱**
+
+- **⚽ 목표**: 공황 장애를 가진 사람들에게 극복을 위한 도움 제공
+    - 공황 상황일 때, 도움을 주는 AI와 통화 (Gemini)
+    - 통화 종료 후 공황 강도, 현장 사진, 예상 여부 등을 기록
+    - 기록지를 다시 확인하며, 자신의 공황 발생 원인을 확인
+    - 공황 기록에 기반하여 통계 화면 제공
+- **🍎 역할**: 프론트 팀원 (어플리케이션 개발 (Flutter))
+- **🔧 기술**: Flutter
+- **🏆 성과**: Google Solution Challenge 2025 출품
+- **❔ 영상**: [Youtube 시연 영상](https://www.youtube.com/watch?v=yBWpN-qHgEc)
+
+### [**Dev Works - DCO (🔒)**](https://github.com/HyeongJun02) (2024-04 ~ 2024.12)
 
 **코딩 과제를 더 쉽게 제출하고 채점 받을 수 있는 과제 제출 사이트**
 
