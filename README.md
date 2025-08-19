@@ -7,14 +7,12 @@
 팀 프로젝트를 진행하고, 역할을 분담하여 협업하는 과정을 즐깁니다. <br>
 <br>
 
-<a href="https://hyoengjun.notion.site/Portfolio-13506e9b95654172a98e223fc6c407ce">
-<img alt="PortPolio" src="https://img.shields.io/badge/PortFolio-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white"/></a>
-<a href="https://velog.io/@hyeongjun">
-<img alt="Velog" src="https://img.shields.io/badge/Velog-20C997.svg?&style=for-the-badge&logo=Velog&logoColor=white"/></a>
-<a href="mailto:khj029956@gmail.com">
-<img alt="Gmail" src="https://img.shields.io/badge/Gmail-EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/__hyeong_jun__/">
-<img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white)](https://hyoengjun.notion.site/Portfolio-13506e9b95654172a98e223fc6c407ce)
+[![NaverBlog](https://img.shields.io/badge/Blog-03C75A?style=for-the-badge&logo=naver&logoColor=white)](https://blog.naver.com/khj029956)
+[![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@hyeongjun)
+[![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khj029956@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/__hyeong_jun__/)
+
 
 <br><br>
 
@@ -90,11 +88,26 @@
 
 | Project | 기간 | 기술 스택 | 성과 | 주요 기능 |
 |---------|------|-----------|------|-----------|
-| [POP PIN](https://github.com/INNOHACK-SWGong/POP-PIN) | 2024-12 ~ 2024-12 (24h) | <img alt="React" src="https://img.shields.io/badge/React-81DEFF.svg?&style=flat-square&logo=React&logoColor=087EA4"/><img alt="Flask" src="https://img.shields.io/badge/Flask-FFFFFF.svg?&style=flat-square&logo=Flask&logoColor=black"/><img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-181717?style=flat-square&logo=OpenAI&logoColor=white"> | ICT INNOHACK 2024 우수상 | 위치 기반, AI 요약, 연관 검색 |
+| [POP PIN](https://github.com/INNOHACK-SWGong/POP-PIN) | 2024-12 ~ 2024-12 (24h) | <img alt="React" src="https://img.shields.io/badge/React-81DEFF.svg?&style=flat-square&logo=React&logoColor=087EA4"/><img alt="Flask" src="https://img.shields.io/badge/Flask-FFFFFF.svg?&style=flat-square&logo=Flask&logoColor=black"/><img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-181717?style=flat-square&logo=OpenAI&logoColor=white"> | ICT INNOHACK 2024 우수 | 위치 기반, AI 요약, 연관 검색 |
 | [DCO (🔒)]() | 2024-04 ~ 2024-12 (9m) | <img alt="React" src="https://img.shields.io/badge/React-81DEFF.svg?&style=flat-square&logo=React&logoColor=087EA4"/> | DAU DevDay 2024 우수 | 그룹별 과제 생성·제출, 자동 채점 |
 | [Master Book](https://github.com/Master-Book/MasterBook-FrontEnd) | 2024-09 ~ 2024-12 (4m) | <img alt="React" src="https://img.shields.io/badge/React-81DEFF.svg?&style=flat-square&logo=React&logoColor=087EA4"/> | - | 콘솔 게임 커뮤니티 사이트 제작 |
 | [Park Paku](https://github.com/parkpaku/parkpaku_front) | 2024-11 ~ 2024-11 (24h) | <img alt="React" src="https://img.shields.io/badge/React-81DEFF.svg?&style=flat-square&logo=React&logoColor=087EA4"/> | GDG 해커톤 최우수 | 위치 기반 보상 앱 |
 | [Core View](https://github.com/Core-View/Front-End) | 2024-04 ~ 2024-06 (3m) | <img alt="React" src="https://img.shields.io/badge/React-81DEFF.svg?&style=flat-square&logo=React&logoColor=087EA4"/> | DebConf24 참가 | 라인 별 코드 피드백 플랫폼 |
+
+</div>
+
+<br><br>
+
+## 🏆 Rewards
+Projects에 기술한 수상 내역은 제외하였습니다.
+
+<div align="start">
+
+| 대회명 | 수상일자 | 성과 |
+|--------|----------|------|
+| 제 3회 동아 코딩 경진 대회 (DUCC) | 2021.11 | 최우수 (공동) |
+| 제 4회 동아 코딩 경진 대회 (DUCC) | 2022.11 | 최우수 (단독) |
+| 제 1회 소프트웨어 UCC 경진 대회 | 2024.11 | 대상 |
 
 </div>
 
