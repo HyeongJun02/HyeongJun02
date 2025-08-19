@@ -84,27 +84,17 @@
 
 ---
 
-#### [POP PIN](https://github.com/INNOHACK-SWGong/POP-PIN) | 2024.12 (24h)
-> 팝업스토어·축제 정보 제공 서비스
-
-<img alt="React" src="https://img.shields.io/badge/React-81DEFF.svg?&style=flat-square&logo=React&logoColor=087EA4"/><img alt="Flask" src="https://img.shields.io/badge/Flask-FFFFFF.svg?&style=flat-square&logo=Flask&logoColor=black"/><img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-181717?style=flat-square&logo=OpenAI&logoColor=white">
-
-- **역할**: 프론트 팀장
-- **성과**: ICT INNOHACK 2024 우수상
-- **주요 기능**: 위치 기반 팝업 추천, AI 요약, 연관 검색
-
----
-
 ### 📂 기타 프로젝트
 
 <div align="start">
 
-| Project | 기간 | 기술 / 역할 | 성과 | 주요 기능 |
-|---------|------|-------------|------|-----------|
-| [DCO (🔒)]() | 2024-04 ~ 2024-12 (9m) | <img alt="React" src="https://img.shields.io/badge/React-81DEFF.svg?&style=flat-square&logo=React&logoColor=087EA4"/> 프론트 팀장 | DAU DevDay 2024 우수 | 그룹별 과제 생성·제출, 자동 채점 |
-| [Master Book](https://github.com/Master-Book/MasterBook-FrontEnd) | 2024-09 ~ 2024-12 (4m) | <img alt="React" src="https://img.shields.io/badge/React-81DEFF.svg?&style=flat-square&logo=React&logoColor=087EA4"/> 프론트 팀장 | - | 콘솔 게임 커뮤니티 사이트 제작 |
-| [Park Paku](https://github.com/parkpaku/parkpaku_front) | 2024-11 ~ 2024-11 (24h) | <img alt="React" src="https://img.shields.io/badge/React-81DEFF.svg?&style=flat-square&logo=React&logoColor=087EA4"/> 프론트 팀장 | GDG 해커톤 최우수 | 위치 기반 보상 앱 |
-| [Core View](https://github.com/Core-View/Front-End) | 2024-04 ~ 2024-06 (3m) | <img alt="React" src="https://img.shields.io/badge/React-81DEFF.svg?&style=flat-square&logo=React&logoColor=087EA4"/> 프론트 팀원 | DebConf24 참가 | 라인 별 코드 피드백 플랫폼 |
+| Project | 기간 | 기술 스택 | 성과 | 주요 기능 |
+|---------|------|-----------|------|-----------|
+| [POP PIN](https://github.com/INNOHACK-SWGong/POP-PIN) | 2024-12 ~ 2024-12 (24h) | <img alt="React" src="https://img.shields.io/badge/React-81DEFF.svg?&style=flat-square&logo=React&logoColor=087EA4"/><img alt="Flask" src="https://img.shields.io/badge/Flask-FFFFFF.svg?&style=flat-square&logo=Flask&logoColor=black"/><img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-181717?style=flat-square&logo=OpenAI&logoColor=white"> | ICT INNOHACK 2024 우수상 | 위치 기반, AI 요약, 연관 검색 |
+| [DCO (🔒)]() | 2024-04 ~ 2024-12 (9m) | <img alt="React" src="https://img.shields.io/badge/React-81DEFF.svg?&style=flat-square&logo=React&logoColor=087EA4"/> | DAU DevDay 2024 우수 | 그룹별 과제 생성·제출, 자동 채점 |
+| [Master Book](https://github.com/Master-Book/MasterBook-FrontEnd) | 2024-09 ~ 2024-12 (4m) | <img alt="React" src="https://img.shields.io/badge/React-81DEFF.svg?&style=flat-square&logo=React&logoColor=087EA4"/> | - | 콘솔 게임 커뮤니티 사이트 제작 |
+| [Park Paku](https://github.com/parkpaku/parkpaku_front) | 2024-11 ~ 2024-11 (24h) | <img alt="React" src="https://img.shields.io/badge/React-81DEFF.svg?&style=flat-square&logo=React&logoColor=087EA4"/> | GDG 해커톤 최우수 | 위치 기반 보상 앱 |
+| [Core View](https://github.com/Core-View/Front-End) | 2024-04 ~ 2024-06 (3m) | <img alt="React" src="https://img.shields.io/badge/React-81DEFF.svg?&style=flat-square&logo=React&logoColor=087EA4"/> | DebConf24 참가 | 라인 별 코드 피드백 플랫폼 |
 
 </div>
 
