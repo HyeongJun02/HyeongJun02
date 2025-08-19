@@ -139,6 +139,18 @@
 - **🔧 기술**: React
 - **🏆 성과**: DebConf24 (데비안 컨퍼런스) 참가
 
+## 📦 Study
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/HyeongJun02/STUDY-Nextjs">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=HyeongJun02&repo=STUDY-Nextjs" alt="STUDY-Nextjs" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+
 <br><br>
 
 ## 👨🏻‍💻 GitHub Stats
