@@ -19,30 +19,40 @@
 <br><br>
 
 ## 📚 Tech Stacks
-<div>
-  <!-- languages -->
-  <img alt="C" src="https://img.shields.io/badge/C-F6DB16.svg?&style=for-the-badge&logo=C&logoColor=grey"/>
-  <img alt="C++" src="https://img.shields.io/badge/C++-F6DB16.svg?&style=for-the-badge&logo=C%2B%2B&logoColor=white"/>
-  <img alt="Python" src="https://img.shields.io/badge/Python-0F91FD.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
-  <img alt="Java" src="https://img.shields.io/badge/Java-E34F26.svg?&style=for-the-badge&logo=Java&logoColor=white"/>
-  <br>
-  <img alt="Dart" src="https://img.shields.io/badge/Dart-473DCF.svg?&style=for-the-badge&logo=Dart&logoColor=white"/>
-  <img alt="React" src="https://img.shields.io/badge/React-81DEFF.svg?&style=for-the-badge&logo=React&logoColor=white"/>
-  <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/>
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-FF9933.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/>
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=grey"/>
-  <br>
-  <!-- tools -->
-  <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img alt="Github" src="https://img.shields.io/badge/Github-181717.svg?&style=for-the-badge&logo=Github&logoColor=white"/>
-  <img alt="Notion" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
-  <img alt="Figma" src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"> 
-  <br>
-  <img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-2C2255.svg?&style=for-the-badge&logo=Eclipse&logoColor=white"/>
-  <img alt="VisualStudio" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/>
-  <img alt="VisualStudioCode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
-  <br>
+
+<div align="center">
+
+### 📝 Languages
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=C&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
+
+### ⚛️ Frameworks & Libraries
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+</p>
+
+### 🛠️ Tools & Platforms
+<p>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+</p>
+
 </div>
+
 
 <br><br>
 
@@ -65,7 +75,7 @@
 
 ---
 
-#### [Poco](https://github.com/GDG-Solution/GDG-Front) | 2024.11 ~ 2025.04
+#### [Poco](https://github.com/GDG-Solution/GDG-Front) | 2024.11 ~ 2025.04 (6 months)
 > 공황 장애 극복을 돕는 앱
 
 <img alt="flutter" src="https://img.shields.io/badge/flutter-3776AB?style=for-the-badge&logo=flutter&logoColor=white">
@@ -76,7 +86,7 @@
 
 ---
 
-#### [POP PIN](https://github.com/INNOHACK-SWGong/POP-PIN) | 2024.12
+#### [POP PIN](https://github.com/INNOHACK-SWGong/POP-PIN) | 2024.12 (1 day)
 > 팝업스토어·축제 정보 제공 서비스
 
 <img alt="React" src="https://img.shields.io/badge/React-81DEFF.svg?&style=for-the-badge&logo=React&logoColor=087EA4"/><img alt="Flask" src="https://img.shields.io/badge/Flask-FFFFFF.svg?&style=for-the-badge&logo=Flask&logoColor=black"/><img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-181717?style=for-the-badge&logo=OpenAI&logoColor=white">
@@ -87,7 +97,7 @@
 
 ---
 
-#### [Dev Works - DCO (🔒)](https://github.com/HyeongJun02) | 2024.04 ~ 2024.12
+#### [Dev Works - DCO (🔒)](https://github.com/HyeongJun02) | 2024.04 ~ 2024.12 (9 months)
 > 대학 과제 제출·자동 채점 플랫폼
 
 <img alt="React" src="https://img.shields.io/badge/React-81DEFF.svg?&style=for-the-badge&logo=React&logoColor=087EA4"/>
