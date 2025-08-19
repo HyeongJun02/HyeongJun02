@@ -65,7 +65,7 @@
 #### [디스이즈 - DSIS (🔒)](https://github.com/HyeongJun02) | 2021.09 ~
 > 동아대학교 학생을 위한 필수 정보 앱
 
-<img alt="React" src="https://img.shields.io/badge/React-81DEFF.svg?&style=for-the-badge&logo=React&logoColor=087EA4"/><img alt="React Native" src="https://img.shields.io/badge/React Native-06607D.svg?&style=for-the-badge&logo=React&logoColor=087EA4"/>
+<img alt="React" src="https://img.shields.io/badge/React-81DEFF.svg?&style=flat-square&logo=React&logoColor=087EA4"/><img alt="React Native" src="https://img.shields.io/badge/React Native-06607D.svg?&style=flat-square&logo=React&logoColor=087EA4"/>
 
 - **역할**: 프론트 팀장
 - **성과**: Google Play 배포 ([다운로드](https://play.google.com/store/apps/details?id=kr.co.thisis.dsisproject))
@@ -76,7 +76,7 @@
 #### [Poco](https://github.com/GDG-Solution/GDG-Front) | 2024.11 ~ 2025.04 (6m)
 > 공황 장애 극복을 돕는 앱
 
-<img alt="flutter" src="https://img.shields.io/badge/flutter-3776AB?style=for-the-badge&logo=flutter&logoColor=white">
+<img alt="flutter" src="https://img.shields.io/badge/flutter-3776AB?style=flat-square&logo=flutter&logoColor=white">
 
 - **역할**: 프론트 팀원 
 - **성과**: Google Solution Challenge 2025 출품 ([Youtube 시연 영상](https://www.youtube.com/watch?v=yBWpN-qHgEc))
@@ -84,25 +84,14 @@
 
 ---
 
-#### [POP PIN](https://github.com/INNOHACK-SWGong/POP-PIN) | 2024.12 (Hackathon 24h)
+#### [POP PIN](https://github.com/INNOHACK-SWGong/POP-PIN) | 2024.12 (24h)
 > 팝업스토어·축제 정보 제공 서비스
 
-<img alt="React" src="https://img.shields.io/badge/React-81DEFF.svg?&style=for-the-badge&logo=React&logoColor=087EA4"/><img alt="Flask" src="https://img.shields.io/badge/Flask-FFFFFF.svg?&style=for-the-badge&logo=Flask&logoColor=black"/><img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-181717?style=for-the-badge&logo=OpenAI&logoColor=white">
+<img alt="React" src="https://img.shields.io/badge/React-81DEFF.svg?&style=flat-square&logo=React&logoColor=087EA4"/><img alt="Flask" src="https://img.shields.io/badge/Flask-FFFFFF.svg?&style=flat-square&logo=Flask&logoColor=black"/><img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-181717?style=flat-square&logo=OpenAI&logoColor=white">
 
 - **역할**: 프론트 팀장
 - **성과**: ICT INNOHACK 2024 우수상
 - **주요 기능**: 위치 기반 팝업 추천, AI 요약, 연관 검색
-
----
-
-#### [Dev Works - DCO (🔒)](https://github.com/HyeongJun02) | 2024.04 ~ 2024.12 (9m)
-> 대학 과제 제출·자동 채점 플랫폼
-
-<img alt="React" src="https://img.shields.io/badge/React-81DEFF.svg?&style=for-the-badge&logo=React&logoColor=087EA4"/>
-
-- **역할**: 프론트 팀장
-- **성과**: DAU DevDay 2024 우수상
-- **주요 기능**: 그룹별 과제 생성·제출, 자동 채점
 
 ---
 
@@ -112,9 +101,10 @@
 
 | Project | 기간 | 기술 / 역할 | 성과 | 주요 기능 |
 |---------|------|-------------|------|-----------|
-| [Master Book](https://github.com/Master-Book/MasterBook-FrontEnd) | 2024-09 ~ 2024-12 (4m) | <img alt="React" src="https://img.shields.io/badge/React-81DEFF.svg?&style=for-the-badge&logo=React&logoColor=087EA4"/> 프론트 팀장 | - | 콘솔 게임 커뮤니티 사이트 제작 |
-| [Park Paku](https://github.com/parkpaku/parkpaku_front) | 2024-11 ~ 2024-11 (Hackathon 24h) | <img alt="React" src="https://img.shields.io/badge/React-81DEFF.svg?&style=for-the-badge&logo=React&logoColor=087EA4"/> 프론트 팀장 | GDG 해커톤 최우수 | 위치 기반 보상 앱 |
-| [Core View](https://github.com/Core-View/Front-End) | 2024-04 ~ 2024-06 (3m) | <img alt="React" src="https://img.shields.io/badge/React-81DEFF.svg?&style=for-the-badge&logo=React&logoColor=087EA4"/> 프론트 팀원 | DebConf24 참가 | 라인 별 코드 피드백 플랫폼 |
+| [DCO (🔒)]() | 2024-04 ~ 2024-12 (9m) | <img alt="React" src="https://img.shields.io/badge/React-81DEFF.svg?&style=flat-square&logo=React&logoColor=087EA4"/> 프론트 팀장 | DAU DevDay 2024 우수 | 그룹별 과제 생성·제출, 자동 채점 |
+| [Master Book](https://github.com/Master-Book/MasterBook-FrontEnd) | 2024-09 ~ 2024-12 (4m) | <img alt="React" src="https://img.shields.io/badge/React-81DEFF.svg?&style=flat-square&logo=React&logoColor=087EA4"/> 프론트 팀장 | - | 콘솔 게임 커뮤니티 사이트 제작 |
+| [Park Paku](https://github.com/parkpaku/parkpaku_front) | 2024-11 ~ 2024-11 (24h) | <img alt="React" src="https://img.shields.io/badge/React-81DEFF.svg?&style=flat-square&logo=React&logoColor=087EA4"/> 프론트 팀장 | GDG 해커톤 최우수 | 위치 기반 보상 앱 |
+| [Core View](https://github.com/Core-View/Front-End) | 2024-04 ~ 2024-06 (3m) | <img alt="React" src="https://img.shields.io/badge/React-81DEFF.svg?&style=flat-square&logo=React&logoColor=087EA4"/> 프론트 팀원 | DebConf24 참가 | 라인 별 코드 피드백 플랫폼 |
 
 </div>
 
