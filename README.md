@@ -46,6 +46,71 @@
 
 <br><br>
 
+
+## 📈 Projects
+주요 프로젝트는 강조 카드로, 그 외는 간결한 카드 레이아웃으로 정리했습니다.
+
+---
+
+### ⭐ 주요 프로젝트
+
+#### [디스이즈 - DSIS (🔒)](https://github.com/HyeongJun02) | 2021.09 ~
+> 동아대학교 학생을 위한 필수 정보 앱
+
+<img alt="React" src="https://img.shields.io/badge/React-81DEFF.svg?&style=for-the-badge&logo=React&logoColor=087EA4"/>
+
+- **역할**: 프론트 팀장
+- **성과**: Google Play 배포 ([다운로드](https://play.google.com/store/apps/details?id=kr.co.thisis.dsisproject))
+- **주요 기능**: 버스/셔틀 실시간, 학사 일정, 학식 메뉴 제공
+
+---
+
+#### [Poco](https://github.com/GDG-Solution/GDG-Front) | 2024.11 ~ 2025.04
+> 공황 장애 극복을 돕는 앱
+
+<img alt="flutter" src="https://img.shields.io/badge/flutter-3776AB?style=for-the-badge&logo=flutter&logoColor=white">
+
+- **역할**: 프론트 팀원 
+- **성과**: Google Solution Challenge 2025 출품 ([Youtube 시연 영상](https://www.youtube.com/watch?v=yBWpN-qHgEc))
+- **주요 기능**: 위기 상황 AI 통화(Gemini), 발작 기록·통계
+
+---
+
+#### [POP PIN](https://github.com/INNOHACK-SWGong/POP-PIN) | 2024.12
+> 팝업스토어·축제 정보 제공 서비스
+
+<img alt="React" src="https://img.shields.io/badge/React-81DEFF.svg?&style=for-the-badge&logo=React&logoColor=087EA4"/><img alt="Flask" src="https://img.shields.io/badge/Flask-FFFFFF.svg?&style=for-the-badge&logo=Flask&logoColor=black"/><img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-181717?style=for-the-badge&logo=OpenAI&logoColor=white">
+
+- **역할**: 프론트 팀장
+- **성과**: ICT INNOHACK 2024 우수상 🏆
+- **주요 기능**: 위치 기반 팝업 추천, AI 요약, 연관 검색
+
+---
+
+#### [Dev Works - DCO (🔒)](https://github.com/HyeongJun02) | 2024.04 ~ 2024.12
+> 대학 과제 제출·자동 채점 플랫폼
+
+<img alt="React" src="https://img.shields.io/badge/React-81DEFF.svg?&style=for-the-badge&logo=React&logoColor=087EA4"/>
+
+- **역할**: 프론트 팀장
+- **성과**: DAU DevDay 2024 우수상 🏆
+- **주요 기능**: 그룹별 과제 생성·제출, 자동 채점
+
+---
+
+### 📂 기타 프로젝트
+
+<div align="start">
+
+| Project | 역할 / 기술 | 성과 |
+|---------|-------------|------|
+| [Master Book](https://github.com/Master-Book/MasterBook-FrontEnd) | 프론트 팀장 / React | 콘솔 게임 커뮤니티 사이트 제작 |
+| [Park Paku](https://github.com/parkpaku/parkpaku_front) | 프론트 팀장 / React | GDG 해커톤 최우수, 위치 기반 보상 앱 |
+| [Core View](https://github.com/Core-View/Front-End) | 프론트 팀원 / React | DebConf24 참가, 코드 피드백 플랫폼 |
+
+</div>
+
+<!--
 ## 📈 Projects
 **Click the Project title for more**
 **⭐: 주요 프로젝트**
@@ -138,18 +203,7 @@
 - **🍎 역할**: 프론트 팀원 (웹 페이지 개발 (React))
 - **🔧 기술**: React
 - **🏆 성과**: DebConf24 (데비안 컨퍼런스) 참가
-
-## 📦 Study
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/HyeongJun02/STUDY-Nextjs">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=HyeongJun02&repo=STUDY-Nextjs" alt="STUDY-Nextjs" />
-      </a>
-    </td>
-  </tr>
-</table>
-
+-->
 
 <br><br>
 
