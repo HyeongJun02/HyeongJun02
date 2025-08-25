@@ -7,6 +7,7 @@
 팀 프로젝트를 진행하고, 역할을 분담하여 협업하는 과정을 즐깁니다. <br>
 <br>
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/hyeongjun-kim-57b8a3357/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white)](https://hyoengjun.notion.site/Portfolio-13506e9b95654172a98e223fc6c407ce)
 [![NaverBlog](https://img.shields.io/badge/Blog-03C75A?style=for-the-badge&logo=naver&logoColor=white)](https://blog.naver.com/khj029956)
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@hyeongjun)
