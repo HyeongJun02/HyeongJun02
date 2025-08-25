@@ -72,6 +72,17 @@
 
 ---
 
+#### [Hear-Stock](https://github.com/Hear-Stock) | 2025.03 ~ 2025.11 (예정)
+> 시각장애인을 위한 주식 정보 제공 시스템
+
+<img alt="flutter" src="https://img.shields.io/badge/flutter-3776AB?style=flat-square&logo=flutter&logoColor=white"><img alt="React" src="https://img.shields.io/badge/React-81DEFF.svg?&style=flat-square&logo=React&logoColor=087EA4"/><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+
+- **역할**: 프론트 팀원
+- **성과**: 2025 제2회 전국대학 소프트웨어 성과 공유포럼 - 부산광역시장상, 최우수, 인기상
+- **주요 기능**: 비선형 그래프의 3차원 청각화, HRTF, 음상 외재화
+
+---
+
 #### [Poco](https://github.com/GDG-Solution/GDG-Front) | 2024.11 ~ 2025.04 (6m)
 > 공황 장애 극복을 돕는 앱
 
