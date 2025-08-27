@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Hi!%20I'm%20Hyeongjun%20Kim&section=header&reversal=false&textBg=false&fontAlign=50&fontSize=40&fontAlignY=30&animation=fadeIn)
+<img width="754" height="252" alt="image" src="https://github.com/user-attachments/assets/41b044de-d3ed-4363-9a61-7073d257aded" />![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Hi!%20I'm%20Hyeongjun%20Kim&section=header&reversal=false&textBg=false&fontAlign=50&fontSize=40&fontAlignY=30&animation=fadeIn)
 
 👋 Hi there! I'm Hyeongjun Kim <br>
 🖥️ I enjoy working on front-end development! <br> <br>
@@ -78,7 +78,7 @@
 <img alt="flutter" src="https://img.shields.io/badge/flutter-3776AB?style=flat-square&logo=flutter&logoColor=white"><img alt="React" src="https://img.shields.io/badge/React-81DEFF.svg?&style=flat-square&logo=React&logoColor=087EA4"/><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
 
 - **역할**: 프론트 팀원
-- **성과**: 2025 제2회 전국대학 소프트웨어 성과 공유포럼 - 부산광역시장상, 최우수, 인기상
+- **성과**: [2025 제2회 전국대학 소프트웨어 성과 공유포럼](https://www.linkedin.com/posts/hyeongjun-kim-57b8a3357_250821-250822-%EB%8F%99%EC%95%88-%EB%B6%80%EC%82%B0-%EB%B2%A1%EC%8A%A4%EC%BD%94%EC%97%90%EC%84%9C-%EC%A7%84%ED%96%89%ED%96%88%EB%8D%98-%EB%B6%80%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C-activity-7364627129344405504-Z-fv?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFjxUW8BpnjC6_gvNa_s4Mk6W-xLfLHpuaA) - 부산광역시장상, 최우수, 인기상
 - **주요 기능**: 비선형 그래프의 3차원 청각화, HRTF, 음상 외재화
 
 ---
