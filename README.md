@@ -98,9 +98,9 @@
 
 <div align="start">
 
-| Project | 기간 | 기술 스택 | 성과 | 주요 기능 |
+| Project | 기간 | 담당 기술 | 성과 | 주요 기능 |
 |---------|------|-----------|------|-----------|
-| [POP PIN](https://github.com/INNOHACK-SWGong/POP-PIN) | 2024-12 ~ 2024-12 (24h) | <img alt="React" src="https://img.shields.io/badge/React-81DEFF.svg?&style=flat-square&logo=React&logoColor=087EA4"/><img alt="Flask" src="https://img.shields.io/badge/Flask-FFFFFF.svg?&style=flat-square&logo=Flask&logoColor=black"/><img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-181717?style=flat-square&logo=OpenAI&logoColor=white"> | ICT INNOHACK 2024 우수 | 위치 기반, AI 요약, 연관 검색 |
+| [POP PIN](https://github.com/INNOHACK-SWGong/POP-PIN) | 2024-12 ~ 2024-12 (24h) | <img alt="React" src="https://img.shields.io/badge/React-81DEFF.svg?&style=flat-square&logo=React&logoColor=087EA4"/><img alt="Flask" src="https://img.shields.io/badge/Flask-FFFFFF.svg?&style=flat-square&logo=Flask&logoColor=black"/><img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-181717?style=flat-square&logo=OpenAI&logoColor=white"> | ICT INNOHACK 2024 우수 | 위치 기반,\n AI 요약, 연관 검색 |
 | [DCO (🔒)]() | 2024-04 ~ 2024-12 (9m) | <img alt="React" src="https://img.shields.io/badge/React-81DEFF.svg?&style=flat-square&logo=React&logoColor=087EA4"/> | DAU DevDay 2024 우수 | 그룹별 과제 생성·제출, 자동 채점 |
 | [Master Book](https://github.com/Master-Book/MasterBook-FrontEnd) | 2024-09 ~ 2024-12 (4m) | <img alt="React" src="https://img.shields.io/badge/React-81DEFF.svg?&style=flat-square&logo=React&logoColor=087EA4"/> | - | 콘솔 게임 커뮤니티 사이트 제작 |
 | [Park Paku](https://github.com/parkpaku/parkpaku_front) | 2024-11 ~ 2024-11 (24h) | <img alt="React" src="https://img.shields.io/badge/React-81DEFF.svg?&style=flat-square&logo=React&logoColor=087EA4"/> | GDG 해커톤 최우수 | 위치 기반 보상 앱 |
@@ -123,7 +123,7 @@
 | DAU DevDay 2024 | 2024.11 | 우수 (2위) |
 | ICT INNOHACK 2024 | 2024.11 | 우수 (3위) |
 | 2024학년도 제2학기 동아스터디 | 2025.01 | 우수 (2위) |
-| 2025 제2회 전국대학 소프트웨어 성과 공유포럼 | 2025.08 | 부산광역시장상 (대상, 전체 1위), 최우수 (상위 4팀), 인기상 (참여자 투표) |
+| 제2회 전국대학 소프트웨어 성과 공유포럼 | 2025.08 | 부산광역시장상 (대상, 전체 1위), 최우수 (상위 4팀), 인기상 (참여자 투표) |
 
 </div>
 
