@@ -68,18 +68,18 @@
 
 - **역할**: 프론트 팀장
 - **성과**: Google Play 배포 ([다운로드](https://play.google.com/store/apps/details?id=kr.co.thisis.dsisproject))
-- **주요 기능**: 버스/셔틀 실시간, 학사 일정, 학식 메뉴 제공
+- **담당 업무**: React 기반 웹뷰 호환 사이트 제작, 반응형 디자인 구현, 컴포넌트 분리 및 재사용성 개선, 마이그레이션 (React Native -> React)
 
 ---
 
 #### [Hear-Stock](https://github.com/Hear-Stock/hearstock_summary/tree/main) | 2025.03 ~ 2025.11 (예정)
-> 시각장애인을 위한 주식 정보 제공 시스템
+> 저시력자 분들을 위한 주식 정보 제공 시스템
 
 <img alt="flutter" src="https://img.shields.io/badge/flutter-3776AB?style=flat-square&logo=flutter&logoColor=white"><img alt="React" src="https://img.shields.io/badge/React-81DEFF.svg?&style=flat-square&logo=React&logoColor=087EA4"/><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
 
 - **역할**: 프론트 팀원
 - **성과**: [2025 제2회 전국대학 소프트웨어 성과 공유포럼](https://www.linkedin.com/posts/hyeongjun-kim-57b8a3357_250821-250822-%EB%8F%99%EC%95%88-%EB%B6%80%EC%82%B0-%EB%B2%A1%EC%8A%A4%EC%BD%94%EC%97%90%EC%84%9C-%EC%A7%84%ED%96%89%ED%96%88%EB%8D%98-%EB%B6%80%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C-activity-7364627129344405504-Z-fv?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFjxUW8BpnjC6_gvNa_s4Mk6W-xLfLHpuaA) - 부산광역시장상, 최우수, 인기상
-- **주요 기능**: 비선형 그래프의 3차원 청각화, HRTF, 음상 외재화
+- **담당 업무**: 프로젝트 아이디어 기획, 저시력자 대상 인터뷰 바탕 UX 리서치, 글자 크기 및 색약·색맹 전용 테마 설계, 비선형 시계열 데이터를 3차원 좌표계로 변환
 
 ---
 
@@ -90,7 +90,7 @@
 
 - **역할**: 프론트 팀원 
 - **성과**: Google Solution Challenge 2025 출품 ([Youtube 시연 영상](https://www.youtube.com/watch?v=yBWpN-qHgEc))
-- **주요 기능**: 위기 상황 AI 통화(Gemini), 발작 기록·통계
+- **담당 업무**: 기능 흐름과 구조 기획, Speech-to-Text를 서버와 연동하여 실시간 대화 구현, 공황 상태 기록 작성, 과거 작성 기록 조회
 
 ---
 
