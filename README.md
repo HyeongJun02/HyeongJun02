@@ -62,7 +62,7 @@
 ### ⭐ 주요 프로젝트
 
 #### [디스이즈 - DSIS (🔒)](https://github.com/DSIS-Android/DSIS-summary) | 2021.09 ~
-> 동아대학교 학생을 위한 필수 정보 앱
+> 대학교 학생을 위한 필수 정보 앱
 
 <img alt="React" src="https://img.shields.io/badge/React-81DEFF.svg?&style=flat-square&logo=React&logoColor=087EA4"/><img alt="React Native" src="https://img.shields.io/badge/React Native-06607D.svg?&style=flat-square&logo=React&logoColor=087EA4"/>
 
