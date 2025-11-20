@@ -64,7 +64,7 @@
 #### [디스이즈 - DSIS (🔒)](https://github.com/DSIS-Android/DSIS-summary) | 2021.09 ~
 > 대학교 학생을 위한 필수 정보 앱
 
-<img alt="React" src="https://img.shields.io/badge/React-81DEFF.svg?&style=flat-square&logo=React&logoColor=087EA4"/><img alt="React Native" src="https://img.shields.io/badge/React Native-06607D.svg?&style=flat-square&logo=React&logoColor=087EA4"/>
+<img alt="React" src="https://img.shields.io/badge/React-81DEFF.svg?&style=flat-square&logo=React&logoColor=087EA4"/><img alt="React Native" src="https://img.shields.io/badge/React Native-06607D.svg?&style=flat-square&logo=React&logoColor=087EA4"/><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 
 - **역할**: 프론트 팀장
 - **성과**: Google Play 배포 ([다운로드](https://play.google.com/store/apps/details?id=kr.co.thisis.dsisproject))
@@ -75,7 +75,7 @@
 #### [Muzig (🔒)]() | 2025.09 ~
 > AI 음악 생성 사이트
 
-<img alt="Next.js" src="https://img.shields.io/badge/Nextjs-191919.svg?&style=flat-square&logo=nextdotjs&logoColor=fff"/><img alt="CSS Modules" src="https://img.shields.io/badge/CSS Modules-191919.svg?&style=flat-square&logo=cssmodules&logoColor=fff"/><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-191919.svg?&style=flat-square&logo=typescript&logoColor=#3178C6"/>
+<img alt="Next.js" src="https://img.shields.io/badge/Nextjs-191919.svg?&style=flat-square&logo=nextdotjs&logoColor=fff"/><img alt="CSS Modules" src="https://img.shields.io/badge/CSS Modules-white.svg?&style=flat-square&logo=cssmodules&logoColor=black"/><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6.svg?&style=flat-square&logo=typescript&logoColor=white"/>
 
 - **역할**: 프론트
 - **성과**: ([웹사이트]())
@@ -86,7 +86,7 @@
 #### [Hear-Stock](https://github.com/Hear-Stock/hearstock_summary/tree/main) | 2025.03 ~ 2025.11 (예정)
 > 저시력자 분들을 위한 주식 정보 제공 시스템
 
-<img alt="flutter" src="https://img.shields.io/badge/flutter-3776AB?style=flat-square&logo=flutter&logoColor=white"><img alt="React" src="https://img.shields.io/badge/React-81DEFF.svg?&style=flat-square&logo=React&logoColor=087EA4"/><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=000000"/>
+<img alt="flutter" src="https://img.shields.io/badge/flutter-3776AB?style=flat-square&logo=flutter&logoColor=white"><img alt="React" src="https://img.shields.io/badge/React-81DEFF.svg?&style=flat-square&logo=React&logoColor=087EA4"/><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=000000"/>
 
 - **역할**: 프론트 팀원
 - **성과**: [2025 제2회 전국대학 소프트웨어 성과 공유포럼](https://www.linkedin.com/posts/hyeongjun-kim-57b8a3357_250821-250822-%EB%8F%99%EC%95%88-%EB%B6%80%EC%82%B0-%EB%B2%A1%EC%8A%A4%EC%BD%94%EC%97%90%EC%84%9C-%EC%A7%84%ED%96%89%ED%96%88%EB%8D%98-%EB%B6%80%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C-activity-7364627129344405504-Z-fv?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFjxUW8BpnjC6_gvNa_s4Mk6W-xLfLHpuaA) - 부산광역시장상, 최우수, 인기상 / 졸업작품 전시회 (Fair Day) - 최우수 ([Youtube 인터뷰 영상](https://www.youtube.com/watch?v=2aX9ofm55pQ))
