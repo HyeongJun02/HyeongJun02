@@ -75,7 +75,7 @@
 #### [Muzig (🔒)]() | 2025.09 ~
 > AI 음악 생성 사이트
 
-<img alt="Next.js" src="https://img.shields.io/badge/Nextjs-191919.svg?&style=flat-square&logo=nextdotjs&logoColor=fff"/><img alt="CSS Modules" src="https://img.shields.io/badge/CSS Modules-white.svg?&style=flat-square&logo=cssmodules&logoColor=black"/><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6.svg?&style=flat-square&logo=typescript&logoColor=white"/>
+<img alt="Next.js" src="https://img.shields.io/badge/Nextjs-191919.svg?&style=flat-square&logo=nextdotjs&logoColor=fff"/><img alt="CSS Modules" src="https://img.shields.io/badge/CSS Modules-white.svg?&style=flat-square&logo=cssmodules&logoColor=black"/><img alt="React Hook Form" src="https://img.shields.io/badge/React Custom Hook-EC5990.svg?&style=flat-square&logo=reacthookform&logoColor=white"/><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6.svg?&style=flat-square&logo=typescript&logoColor=white"/>
 
 - **역할**: 프론트
 - **성과**: ([웹사이트]())
