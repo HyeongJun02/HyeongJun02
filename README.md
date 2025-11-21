@@ -80,7 +80,7 @@
 <img alt="Next.js" src="https://img.shields.io/badge/Nextjs-191919.svg?&style=flat-square&logo=nextdotjs&logoColor=fff"/><img alt="CSS Modules" src="https://img.shields.io/badge/CSS Modules-white.svg?&style=flat-square&logo=cssmodules&logoColor=black"/><img alt="React Hook Form" src="https://img.shields.io/badge/React Custom Hook-EC5990.svg?&style=flat-square&logo=reacthookform&logoColor=white"/><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6.svg?&style=flat-square&logo=typescript&logoColor=white"/>
 
 - **역할**: 프론트
-- **성과**: ([웹사이트]())
+- **성과**: ([웹사이트](muzig.ai))
 - **담당 업무**: Next.js App Router 기반의 프로젝트 구조 설계 및 개발, Custom Hooks 패턴 도입으로 UI와 비지니스 로직(API 호출, 상태 관리) 분리, 반응형 UI 구현, 코드 리펙토링
 
 ---
