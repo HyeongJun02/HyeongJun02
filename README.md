@@ -35,7 +35,7 @@
 ### ⚛️ Frameworks & Libraries
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-  <img alt="Next.js" src="https://img.shields.io/badge/Nextjs-191919.svg?&style=flat-square&logo=nextdotjs&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/Nextjs-191919.svg?&style=flat-square&logo=nextdotjs&logoColor=fff"/>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
 </p>
