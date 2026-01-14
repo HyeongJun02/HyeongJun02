@@ -84,7 +84,7 @@
 
 ---
 
-#### [Hear-Stock](https://github.com/Hear-Stock/hearstock_summary/tree/main) | 2025.03 ~ 2025.11 (예정)
+#### [Hear-Stock](https://github.com/Hear-Stock/hearstock_summary/tree/main) | 2025.03 ~ 2025.12
 > 저시력자 분들을 위한 주식 정보 제공 시스템
 
 <img alt="flutter" src="https://img.shields.io/badge/flutter-3776AB?style=flat-square&logo=flutter&logoColor=white"><img alt="React" src="https://img.shields.io/badge/React-81DEFF.svg?&style=flat-square&logo=React&logoColor=087EA4"/><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/><img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=000000"/>
