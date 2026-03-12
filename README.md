@@ -128,10 +128,10 @@
 | Project | 기간 | 담당 기술 | 성과 | 주요 기능 |
 | :--- | :---: | :--- | :--- | :--- |
 | **[POP PIN](https://github.com/INNOHACK-SWGong/POP-PIN)** | `24.12` | <img alt="React" src="https://img.shields.io/badge/React-81DEFF.svg?&style=flat-square&logo=React&logoColor=087EA4"/><img alt="Flask" src="https://img.shields.io/badge/Flask-FFFFFF.svg?&style=flat-square&logo=Flask&logoColor=black"/><img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-181717?style=flat-square&logo=OpenAI&logoColor=white"> | ICT INNOHACK 2024 우수 | 위치 기반 팝업 요약 정보 제공 |
-| **[DCO (🔒)]()** | `24.04-12` | <img alt="React" src="https://img.shields.io/badge/React-81DEFF.svg?&style=flat-square&logo=React&logoColor=087EA4"/> | DAU DevDay 2024 우수 | 그룹별 과제 생성·제출, 자동 채점 |
-| **[Master Book](https://github.com/Master-Book/MasterBook-FrontEnd)** | `24.09-12` | <img alt="React" src="https://img.shields.io/badge/React-81DEFF.svg?&style=flat-square&logo=React&logoColor=087EA4"/> | - | 콘솔 게임 커뮤니티 사이트 |
+| **[DCO (🔒)]()** | `24.04 ~ 24.12` | <img alt="React" src="https://img.shields.io/badge/React-81DEFF.svg?&style=flat-square&logo=React&logoColor=087EA4"/> | DAU DevDay 2024 우수 | 그룹별 과제 생성·제출, 자동 채점 |
+| **[Master Book](https://github.com/Master-Book/MasterBook-FrontEnd)** | `24.09 ~ 24.12` | <img alt="React" src="https://img.shields.io/badge/React-81DEFF.svg?&style=flat-square&logo=React&logoColor=087EA4"/> | - | 콘솔 게임 커뮤니티 사이트 |
 | **[Park Paku](https://github.com/parkpaku/parkpaku_front)** | `24.11` | <img alt="React" src="https://img.shields.io/badge/React-81DEFF.svg?&style=flat-square&logo=React&logoColor=087EA4"/> | GDG 해커톤 최우수 | 위치 기반 보상 산책 앱 |
-| **[Core View](https://github.com/Core-View/Front-End)** | `24.04-06` | <img alt="React" src="https://img.shields.io/badge/React-81DEFF.svg?&style=flat-square&logo=React&logoColor=087EA4"/> | DebConf24 참가 | 라인 별 코드 피드백 플랫폼 |
+| **[Core View](https://github.com/Core-View/Front-End)** | `24.04 ~ 24.06` | <img alt="React" src="https://img.shields.io/badge/React-81DEFF.svg?&style=flat-square&logo=React&logoColor=087EA4"/> | DebConf24 참가 | 라인 별 코드 피드백 플랫폼 |
 
 <br><br>
 
