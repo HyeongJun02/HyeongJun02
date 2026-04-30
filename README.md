@@ -36,7 +36,7 @@
 
 ### 🛠️ Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=github,notion,vscode,visualstudio,figma,docker" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,windows,github,notion,vscode,visualstudio,figma,docker" />
 </p>
 
 <br><br>
