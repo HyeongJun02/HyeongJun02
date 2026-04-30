@@ -48,7 +48,7 @@
 
 ### ⭐ 주요 프로젝트
 
-#### [📱 디스이즈 - DSIS (🔒)](https://github.com/DSIS-Android/DSIS-summary) | `2021.09 ~ `
+#### [<img height="24" align="center" alt="DSIS" src="https://github.com/user-attachments/assets/95a0f807-3406-483c-86d3-1833fc3027f0" /> 디스이즈 - DSIS (🔒)](https://github.com/DSIS-Android/DSIS-summary) | `2021.09 ~ `
 > 대학교 학생을 위한 필수 정보 앱
 
 <p>
@@ -63,7 +63,7 @@
 
 ---
 
-#### [🎵 Muzig.ai (🔒)]() | `2025.09 ~ `
+#### [<img height="24" align="center" alt="Muzig" src="https://github.com/user-attachments/assets/9faece5b-1f6f-4f65-b928-4275fde98953" /> Muzig.ai (🔒)]() | `2025.09 ~ `
 > AI 음악 생성 사이트 ([웹사이트](https://muzig.ai))
 
 <p>
