@@ -11,11 +11,11 @@
   
   <br>
 
-  <a href="https://www.linkedin.com/in/hyeongjun-kim-57b8a3357/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
-  <a href="mailto:khj029956@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://blog.naver.com/khj029956"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=naver&logoColor=white"/></a>
-  <a href="https://velog.io/@hyeongjun"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a>
-  <a href="https://www.instagram.com/__hyeong_jun__/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/hyeongjun-kim-57b8a3357/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="mailto:khj029956@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://www.instagram.com/__hyeong_jun__/"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+  <a href="https://blog.naver.com/khj029956"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=naver&logoColor=white"/></a>
+  <a href="https://velog.io/@hyeongjun"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a>
 </div>
 
 <br><br>
@@ -25,7 +25,7 @@
 ### 📝 Languages
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,dart,cpp,c,python,java" />
+    <img src="https://skillicons.dev/icons?i=js,ts,css,dart,cpp,c,python,java" />
   </a>
 </p>
 
@@ -36,7 +36,7 @@
 
 ### 🛠️ Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=androidstudio,windows,github,notion,vscode,visualstudio,figma,docker" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,windows,github,notion,discord,vscode,visualstudio,figma,docker" />
 </p>
 
 <br><br>
