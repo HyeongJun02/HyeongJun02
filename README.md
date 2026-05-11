@@ -184,6 +184,7 @@
 
 <br><br>
 
+<!--
 ## 👨🏻‍💻 Stats & Rank
 
 <div align="center">
@@ -196,6 +197,7 @@
 </div>
 
 <br><br>
+-->
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Thank%20you&section=footer&reversal=false&textBg=false&fontAlign=50&fontSize=40&fontAlignY=70&animation=fadeIn&descAlign=50" width="100%" />
