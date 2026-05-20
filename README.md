@@ -1,11 +1,9 @@
 <div align="center">
 
 <!-- 헤더 -->
-<img src="https://capsule-render.vercel.app/api?type=venom&height=150&color=0:0f0c29,50:302b63,100:24243e&text=Hyeongjun%20Kim&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=150&color=0:0f0c29,50:302b63,100:24243e&text=Hyeongjun%20Kim&fontSize=36&fontColor=fff&animation=fadeIn&fontAlignY=50" width="100%" />
 
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com/?lines=Frontend+Developer;React+%7C+Next.js+%7C+Flutter;Turn+ideas+into+services.;Always+Challenging!&font=JetBrains+Mono&center=true&width=550&height=60&duration=2000&pause=1000&color=8B9FD4&vCenter=true&size=22" />
-</div>
+<img src="https://readme-typing-svg.demolab.com/?lines=Frontend+Developer;React+%7C+Next.js+%7C+Flutter;Turn+ideas+into+services.;Always+Challenging!&font=JetBrains+Mono&center=true&width=550&height=60&duration=2000&pause=1000&color=8B9FD4&vCenter=true&size=18" />
 
   <br>
 
