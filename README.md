@@ -51,75 +51,60 @@
 #### [<img height="24" align="center" alt="DSIS" src="https://github.com/user-attachments/assets/95a0f807-3406-483c-86d3-1833fc3027f0" /> 디스이즈 - DSIS (🔒)](https://github.com/DSIS-Android/DSIS-summary) | `2021.09 ~ `
 > 대학교 학생을 위한 필수 정보 앱
 
-<p>
-  <img alt="React" src="https://img.shields.io/badge/React-81DEFF.svg?&style=flat-square&logo=React&logoColor=087EA4"/>
-  <img alt="React Native" src="https://img.shields.io/badge/React Native-06607D.svg?&style=flat-square&logo=React&logoColor=087EA4"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-</p>
+<img height="30" src="https://skillicons.dev/icons?i=react,js"/>
 
 - **역할**: 프론트 팀장
 - **성과**: Google Play 배포 ([다운로드](https://play.google.com/store/apps/details?id=kr.co.thisis.dsisproject))
-- **담당 업무**: React 기반 웹뷰 호환 사이트 제작, 반응형 디자인 구현, 컴포넌트 분리 및 재사용성 개선, 마이그레이션 (React Native -> React)
+- **담당 업무**: React 기반 웹뷰 호환 사이트 제작 및 반응형 디자인 구현, React Native -> React 마이그레이션
 
 ---
 
 #### [<img height="24" align="center" alt="Muzig" src="https://github.com/user-attachments/assets/9faece5b-1f6f-4f65-b928-4275fde98953" /> Muzig.ai (🔒)]() | `2025.09 ~ `
-> AI 음악 생성 사이트 ([웹사이트](https://muzig.ai))
+> AI 음악 생성 사이트 - 아티움그룹㈜
 
-<p>
-  <img alt="Next.js" src="https://img.shields.io/badge/Nextjs-191919.svg?&style=flat-square&logo=nextdotjs&logoColor=fff"/>
-  <img alt="CSS Modules" src="https://img.shields.io/badge/CSS Modules-white.svg?&style=flat-square&logo=cssmodules&logoColor=black"/>
-  <img alt="React Hook Form" src="https://img.shields.io/badge/React Custom Hook-EC5990.svg?&style=flat-square&logo=reacthookform&logoColor=white"/>
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6.svg?&style=flat-square&logo=typescript&logoColor=white"/>
-</p>
+<img height="30" src="https://skillicons.dev/icons?i=nextjs,ts,css"/>
 
-- **역할**: 프론트
-- **성과**: 사이트 런칭
-- **담당 업무**: Next.js App Router 기반의 프로젝트 구조 설계 및 개발, Custom Hooks 패턴 도입으로 UI와 비지니스 로직(API 호출, 상태 관리) 분리, 반응형 UI 구현, 코드 리펙토링
+- **역할**: 프론트 (단독 설계 및 개발)
+- **성과**: 프론트 페이지 초기 구조 설계, 사이트 런칭 ([Muzig.ai](https://muzig.ai))
+- **담당 업무**: Next.js App Router 기반 프로젝트 아키텍처 설계 및 전체 프론트엔드 개발, Custom Hooks 패턴으로 UI·비지니스 로직 분리, 반응형 UI 구현
 
 ---
 
 #### [📊 Hear-Stock](https://github.com/Hear-Stock/hearstock_summary/tree/main) | `2025.03 ~ 2025.12`
 > 저시력자 분들을 위한 주식 정보 제공 시스템
 
-<p>
-  <img alt="flutter" src="https://img.shields.io/badge/flutter-3776AB?style=flat-square&logo=flutter&logoColor=white">
-  <img alt="React" src="https://img.shields.io/badge/React-81DEFF.svg?&style=flat-square&logo=React&logoColor=087EA4"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=000000"/>
-</p>
+<img height="30" src="https://skillicons.dev/icons?i=flutter,react,js,cpp"/>
 
 - **역할**: 프론트 팀원
-- **성과**: 
-  - [2025 제2회 전국대학 소프트웨어 성과 공유포럼](https://www.linkedin.com/posts/hyeongjun-kim-57b8a3357_250821-250822-%EB%8F%99%EC%95%88-%EB%B6%80%EC%82%B0-%EB%B2%A1%EC%8A%A4%EC%BD%94%EC%97%90%EC%84%9C-%EC%A7%84%ED%96%89%ED%96%88%EB%8D%98-%EB%B6%80%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C-activity-7364627129344405504-Z-fv?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFjxUW8BpnjC6_gvNa_s4Mk6W-xLfLHpuaA) - 부산광역시장상, 최우수, 인기상 
-  - 졸업작품 전시회 (Fair Day) - 최우수 ([Youtube 인터뷰 영상](https://www.youtube.com/watch?v=2aX9ofm55pQ)) 
-  - 부산 디지털 혁신 아카데미 BDIA 사이드 프로젝트 전시회 - 혁신상 (부산정보산업진흥원장상)
-- **담당 업무**: 프로젝트 아이디어 기획, 저시력자 대상 인터뷰 바탕 UX 리서치, 글자 크기 및 색약·색맹 전용 테마 설계, 비선형 시계열 데이터를 3차원 좌표계로 변환
+- **성과**: 부산광역시장상·최우수·인기상, 졸업작품 최우수, BDIA 혁신상 ([Youtube 인터뷰 영상](https://www.youtube.com/watch?v=2aX9ofm55pQ))
+- **담당 업무**: 아이디어 기획, 저시력자 UX 리서치 기반 색약·색맹 전용 테마 설계, 비선형 시계열 데이터의 3차원 좌표 변환
 
 ---
-
-#### [☁️ Poco](https://github.com/GDG-Solution/GDG-Front) | `2024.11 ~ 2025.04 (6m)`
-> 공황 장애 극복을 돕는 앱
-
-<p>
-  <img alt="flutter" src="https://img.shields.io/badge/flutter-3776AB?style=flat-square&logo=flutter&logoColor=white">
-</p>
-
-- **역할**: 프론트 팀원 
-- **성과**: Google Solution Challenge 2025 출품 ([Youtube 시연 영상](https://www.youtube.com/watch?v=yBWpN-qHgEc))
-- **담당 업무**: 기능 흐름과 구조 기획, Speech-to-Text를 서버와 연동하여 실시간 대화 구현, 공황 상태 기록 작성, 과거 작성 기록 조회
 
 <br>
 
 ### 📂 기타 프로젝트
 
-| Project | 기간 | 담당 기술 | 성과 | 주요 기능 |
-| :--- | :---: | :--- | :--- | :--- |
-| **[POP PIN](https://github.com/INNOHACK-SWGong/POP-PIN)** | `24.12` | <img alt="React" src="https://img.shields.io/badge/React-81DEFF.svg?&style=flat-square&logo=React&logoColor=087EA4"/><img alt="Flask" src="https://img.shields.io/badge/Flask-FFFFFF.svg?&style=flat-square&logo=Flask&logoColor=black"/><img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-181717?style=flat-square&logo=OpenAI&logoColor=white"> | ICT INNOHACK 2024 우수 | 위치 기반 팝업 요약 정보 제공 |
-| **[DCO (🔒)]()** | `24.04 ~ 24.12` | <img alt="React" src="https://img.shields.io/badge/React-81DEFF.svg?&style=flat-square&logo=React&logoColor=087EA4"/> | DAU DevDay 2024 우수 | 그룹별 과제 생성·제출, 자동 채점 |
-| **[Master Book](https://github.com/Master-Book/MasterBook-FrontEnd)** | `24.09 ~ 24.12` | <img alt="React" src="https://img.shields.io/badge/React-81DEFF.svg?&style=flat-square&logo=React&logoColor=087EA4"/> | - | 콘솔 게임 커뮤니티 사이트 |
-| **[Park Paku](https://github.com/parkpaku/parkpaku_front)** | `24.11` | <img alt="React" src="https://img.shields.io/badge/React-81DEFF.svg?&style=flat-square&logo=React&logoColor=087EA4"/> | GDG 해커톤 최우수 | 위치 기반 보상 산책 앱 |
-| **[Core View](https://github.com/Core-View/Front-End)** | `24.04 ~ 24.06` | <img alt="React" src="https://img.shields.io/badge/React-81DEFF.svg?&style=flat-square&logo=React&logoColor=087EA4"/> | DebConf24 참가 | 라인 별 코드 피드백 플랫폼 |
+- **[Polar.ai](https://github.com/GDG-Hackathon-2026/GDG-Hackathon-2026-Front)** `26.04` <img height="16" src="https://skillicons.dev/icons?i=nextjs,ts"/>
+  GDG Build with AI 2026 BUSAN Top 10 · LLM의 탄소 배출량을 사용자가 경험하게 만들어 직관적으로 경고
+
+- **[Poco](https://github.com/GDG-Solution/GDG-Front)** `24.11 ~ 25.04` <img height="16" src="https://skillicons.dev/icons?i=flutter"/>
+  Google Solution Challenge 2025 출품 · Speech-to-Text 서버 연동 실시간 대화, 공황 상태 기록 및 이력 조회 ([시연 영상](https://www.youtube.com/watch?v=yBWpN-qHgEc))
+
+- **[POP PIN](https://github.com/INNOHACK-SWGong/POP-PIN)** `24.12` <img height="16" src="https://skillicons.dev/icons?i=react,flask"/>
+  ICT INNOHACK 2024 우수 · 위치 기반 팝업 요약 정보 제공
+
+- **[DCO 🔒]()** `24.04 ~ 24.12` <img height="16" src="https://skillicons.dev/icons?i=react"/>
+  DAU DevDay 2024 우수 · 그룹별 과제 생성·제출, 자동 채점
+
+- **[Master Book](https://github.com/Master-Book/MasterBook-FrontEnd)** `24.09 ~ 24.12` <img height="16" src="https://skillicons.dev/icons?i=react"/>
+  콘솔 게임 커뮤니티 사이트
+
+- **[Park Paku](https://github.com/parkpaku/parkpaku_front)** `24.11` <img height="16" src="https://skillicons.dev/icons?i=react"/>
+  GDG 해커톤 최우수 · 위치 기반 보상 산책 앱
+
+- **[Core View](https://github.com/Core-View/Front-End)** `24.04 ~ 24.06` <img height="16" src="https://skillicons.dev/icons?i=react"/>
+  DebConf24 참가 · 라인별 코드 피드백 플랫폼
 
 <br><br>
 
@@ -143,7 +128,7 @@
 | DAU DevDay 2024 | `2024.11` | 우수 (2위) |
 | ICT INNOHACK 2024 | `2024.11` | 우수 (3위) |
 | 2024학년도 제2학기 동아스터디 | `2025.01` | 우수 (2위) |
-| 제2회 전국대학 소프트웨어 성과 공유포럼 | `2025.08` | 부산광역시장상 (대상, 전체 1위)<br>인기상 (참여자 투표 1위) |
+| [제2회 전국대학 소프트웨어 성과 공유포럼](https://www.linkedin.com/posts/hyeongjun-kim-57b8a3357_250821-250822-%EB%8F%99%EC%95%88-%EB%B6%80%EC%82%B0-%EB%B2%A1%EC%8A%A4%EC%BD%94%EC%97%90%EC%84%9C-%EC%A7%84%ED%96%89%ED%96%88%EB%8D%98-%EB%B6%80%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C-activity-7364627129344405504-Z-fv?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFjxUW8BpnjC6_gvNa_s4Mk6W-xLfLHpuaA) | `2025.08` | 부산광역시장상 (대상, 전체 1위)<br>인기상 (참여자 투표 1위) |
 | 졸업작품 전시회 (Fair Day) | `2025.11` | 최우수 (2위) |
 | 대학생 논문 경진대회 우수논문상 | `2025.11` | 장려 |
 | BDIA 사이드 프로젝트 전시회 | `2025.12` | 부산정보산업진흥원장상 (혁신상) |
