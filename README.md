@@ -17,8 +17,8 @@
   <a href="https://www.linkedin.com/in/hyeongjun-kim-57b8a3357/"><img height="32" src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="mailto:khj029956@gmail.com"><img height="32" src="https://skillicons.dev/icons?i=gmail" /></a>
   <a href="https://www.instagram.com/__hyeong_jun__/"><img height="32" src="https://skillicons.dev/icons?i=instagram" /></a>
-  <a href="https://blog.naver.com/khj029956"><img height="32" src="https://img.shields.io/badge/Blog-03C75A?style=for-the-badge&logo=naver&logoColor=white"/></a>
-  <a href="https://velog.io/@hyeongjun"><img height="32" src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/></a>
+  <a href="https://blog.naver.com/khj029956"><img height="32" src="https://img.shields.io/badge/-03C75A?style=for-the-badge&logo=naver&logoColor=white"/></a>
+  <a href="https://velog.io/@hyeongjun"><img height="32" src="https://img.shields.io/badge/-20C997?style=for-the-badge&logo=velog&logoColor=white"/></a>
 
 </div>
 
