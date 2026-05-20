@@ -1,21 +1,24 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Hi!%20I'm%20Hyeongjun%20Kim&section=header&reversal=false&textBg=false&fontAlign=50&fontSize=40&fontAlignY=30&animation=fadeIn" width="100%" />
+
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:a18cd1,50:fbc2eb,100:a1c4fd&text=Hyeongjun%20Kim&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=55" width="100%" />
+
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi!+I'm+Hyeongjun+Kim;Frontend+Developer;React+%7C+Next.js+%7C+Flutter;Always+Challenging!&font=Fira%20Code&center=true&width=550&height=60&duration=2000&pause=1000&color=C9A7F5" />
 
   <br>
 
-  👋 Hi there! I'm Hyeongjun Kim <br>
-  🖥️ I enjoy working on front-end development! <br><br>
-  안녕하세요! 끈기있게 도전하여 성장하는 김형준입니다! <br>
-  프론트엔드 개발자로 사용자에게 보다 편리한 UI UX를 제공하고 싶습니다. <br>
-  팀 프로젝트를 진행하고, 역할을 분담하여 협업하는 과정을 즐깁니다. <br>
-  
+  🖥️ Frontend Developer who loves building user-centered experiences. <br>
+  사용자 경험을 최우선으로 생각하는 프론트엔드 개발자입니다. <br>
+  아이디어를 직접 구현해 서비스로 만드는 과정을 즐기며, <br>
+  팀과 함께 문제를 정의하고 빠르게 실행하는 것을 강점으로 삼고 있습니다. <br>
+
   <br>
 
-  <a href="https://www.linkedin.com/in/hyeongjun-kim-57b8a3357/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="mailto:khj029956@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://www.instagram.com/__hyeong_jun__/"><img src="https://skillicons.dev/icons?i=instagram" /></a>
-  <a href="https://blog.naver.com/khj029956"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=naver&logoColor=white"/></a>
-  <a href="https://velog.io/@hyeongjun"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/hyeongjun-kim-57b8a3357/"><img height="32" src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="mailto:khj029956@gmail.com"><img height="32" src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://www.instagram.com/__hyeong_jun__/"><img height="32" src="https://skillicons.dev/icons?i=instagram" /></a>
+  <a href="https://blog.naver.com/khj029956"><img height="32" src="https://img.shields.io/badge/Blog-03C75A?style=for-the-badge&logo=naver&logoColor=white"/></a>
+  <a href="https://velog.io/@hyeongjun"><img height="32" src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/></a>
+
 </div>
 
 <br><br>
@@ -24,19 +27,17 @@
 
 ### 📝 Languages
 <p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,css,dart,cpp,c,python,java" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=js,ts,dart,cpp,c,python" />
 </p>
 
-### ⚛️ Frameworks & Libraries
+### 🎨 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=react,next,flutter" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,css" />
 </p>
 
 ### 🛠️ Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=androidstudio,windows,github,notion,discord,vscode,visualstudio,figma,docker" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker,notion,androidstudio,flask" />
 </p>
 
 <br><br>
@@ -185,5 +186,6 @@
 -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Thank%20you&section=footer&reversal=false&textBg=false&fontAlign=50&fontSize=40&fontAlignY=70&animation=fadeIn&descAlign=50" width="100%" />
+<!-- 푸터 -->
+<img src="https://capsule-render.vercel.app/api?type=cylinder&height=150&color=gradient&text=Thank%20you&fontSize=40&fontColor=fff&fontAlignY=55&section=footer" width="100%" />
 </div>
