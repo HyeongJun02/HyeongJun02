@@ -126,7 +126,7 @@
 | 제 1회 소프트웨어 UCC 경진 대회 | `2024.11` | 대상 (1위) |
 | GDG DAU 해커톤 | `2024.11` | 최우수 (1위) |
 | DAU DevDay 2024 | `2024.11` | 우수 (2위) |
-| ICT INNOHACK 2024 | `2024.11` | 우수 (3위) |
+| [ICT INNOHACK 2024](https://www.baeulang.kr/bbs/board.php?bo_table=notice&wr_id=81) | `2024.11` | 우수 (3위) |
 | 2024학년도 제2학기 동아스터디 | `2025.01` | 우수 (2위) |
 | [제2회 전국대학 소프트웨어 성과 공유포럼](https://www.linkedin.com/posts/hyeongjun-kim-57b8a3357_250821-250822-%EB%8F%99%EC%95%88-%EB%B6%80%EC%82%B0-%EB%B2%A1%EC%8A%A4%EC%BD%94%EC%97%90%EC%84%9C-%EC%A7%84%ED%96%89%ED%96%88%EB%8D%98-%EB%B6%80%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C-activity-7364627129344405504-Z-fv?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFjxUW8BpnjC6_gvNa_s4Mk6W-xLfLHpuaA) | `2025.08` | 부산광역시장상 (대상, 전체 1위)<br>인기상 (참여자 투표 1위) |
 | 졸업작품 전시회 (Fair Day) | `2025.11` | 최우수 (2위) |
