@@ -130,7 +130,7 @@
 | 2024학년도 제2학기 동아스터디 | `2025.01` | 우수 (2위) |
 | [제2회 전국대학 소프트웨어 성과 공유포럼](https://www.linkedin.com/posts/hyeongjun-kim-57b8a3357_250821-250822-%EB%8F%99%EC%95%88-%EB%B6%80%EC%82%B0-%EB%B2%A1%EC%8A%A4%EC%BD%94%EC%97%90%EC%84%9C-%EC%A7%84%ED%96%89%ED%96%88%EB%8D%98-%EB%B6%80%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C-activity-7364627129344405504-Z-fv?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFjxUW8BpnjC6_gvNa_s4Mk6W-xLfLHpuaA) | `2025.08` | 부산광역시장상 (대상, 전체 1위)<br>인기상 (참여자 투표 1위) |
 | 졸업작품 전시회 (Fair Day) | `2025.11` | 최우수 (2위) |
-| 대학생 논문 경진대회 우수논문상 | `2025.11` | 장려 |
+| [한국방송·미디어공학회 추계학술대회](https://www.kibme.org/academic/academicDetail?ae_idx=2382&ae_type=0) | `2025.11` | 장려 |
 | BDIA 사이드 프로젝트 전시회 | `2025.12` | 부산정보산업진흥원장상 (혁신상) |
 | [GDG Build with AI 2026 : BUSAN](https://gdg.community.dev/events/details/google-gdg-busan-presents-build-with-ai-x-gdg-busan-2026-ai-hackathon/) | `2026.04` | Top 10 |
 | 2026 제 1회 애니멀리그 ([멋쟁이사자처럼](https://likelion.university/)) | `2026.04` | 1위 |
