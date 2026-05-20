@@ -169,20 +169,17 @@
 
 <br><br>
 
-<!--
 ## 👨🏻‍💻 Stats & Rank
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hyeongjun02&show_icons=true&theme=radical&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyeongjun02&layout=compact&theme=radical&hide_border=true" height="165" />
-  <br>
-  <a href="https://solved.ac/khj4295233">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=khj4295233" height="165" />
-  </a>
+  <img src="https://github-readme-stats-omega-five-27.vercel.app/api?username=hyeongjun02&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Stats"/>
+  <!-- <img src="https://github-readme-stats-omega-five-27.vercel.app/api/top-langs/?username=hyeongjun02&layout=donut&theme=tokyonight&hide_border=true" /> -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=hyeongjun02&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=hyeongjun02&theme=tokyonight&no-frame=true&row=1" />
+  <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=hyeongjun02&theme=tokyo-night&hide_border=true" /> -->
 </div>
 
 <br><br>
--->
 
 <!-- 푸터 -->
 <div align="center">
