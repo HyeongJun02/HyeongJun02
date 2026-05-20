@@ -1,8 +1,11 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:a18cd1,50:fbc2eb,100:a1c4fd&text=Hyeongjun%20Kim&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=55" width="100%" />
+<!-- 헤더 -->
+<img src="https://capsule-render.vercel.app/api?type=venom&height=150&color=0:0f0c29,50:302b63,100:24243e&text=Hyeongjun%20Kim&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=50" width="100%" />
 
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi!+I'm+Hyeongjun+Kim;Frontend+Developer;React+%7C+Next.js+%7C+Flutter;Always+Challenging!&font=Fira%20Code&center=true&width=550&height=60&duration=2000&pause=1000&color=C9A7F5" />
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com/?lines=Frontend+Developer;React+%7C+Next.js+%7C+Flutter;Turn+ideas+into+services.;Always+Challenging!&font=JetBrains+Mono&center=true&width=550&height=60&duration=2000&pause=1000&color=8B9FD4&vCenter=true&size=22" />
+</div>
 
   <br>
 
@@ -43,9 +46,6 @@
 <br><br>
 
 ## 📈 Projects
-주요 프로젝트는 강조 카드로, 그 외는 간결한 카드 레이아웃으로 정리했습니다.
-
-<br>
 
 ### ⭐ 주요 프로젝트
 
@@ -82,7 +82,6 @@
 
 ---
 
-<br>
 
 ### 📂 기타 프로젝트
 
@@ -185,7 +184,7 @@
 <br><br>
 -->
 
-<div align="center">
 <!-- 푸터 -->
-<img src="https://capsule-render.vercel.app/api?type=cylinder&height=150&color=gradient&text=Thank%20you&fontSize=40&fontColor=fff&fontAlignY=55&section=footer" width="100%" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&height=80&color=0:0f0c29,50:302b63,100:24243e&text=Thank%20you&fontSize=28&fontColor=fff&fontAlignY=50&section=footer" width="100%" />
 </div>
