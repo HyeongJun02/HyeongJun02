@@ -27,6 +27,7 @@
 !! 포트폴리오 README 사이트 변경 !!
 <br>
 https://hyeongjun-portfolio.vercel.app/
+https://hyeongjun.site
 <br><br>
 
 ## 📚 Tech Stacks
